@@ -1,1 +1,1 @@
-My lame attempts to solve leetcode problems
+My lame O(n^2) attempts to solve leetcode problems
